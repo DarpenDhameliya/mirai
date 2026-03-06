@@ -1,0 +1,7 @@
+{
+  "name": "Mirai Embroidery Machines",
+  "description": "A professional business website for Mirai Embroidery Machines, specializing in high-performance industrial embroidery technology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
