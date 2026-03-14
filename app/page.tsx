@@ -15,8 +15,8 @@ export default function Home() {
         <section id="home">
           <Hero />
         </section>
-        
-        <section id="about" className="py-20 bg-white">
+
+        <section id="about" className="bg-white">
           <About />
         </section>
 
