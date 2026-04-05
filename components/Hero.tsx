@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
           {/* Headline */}
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold text-white tracking-tight leading-tight mb-6 drop-shadow-xl">
             Maximize Your <br className="hidden sm:block" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 to-emerald-100">Production</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-300 to-emerald-100">Industrial Embroidery Production</span>
           </h1>
 
           {/* Subheading */}

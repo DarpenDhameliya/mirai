@@ -48,11 +48,14 @@ const Footer: React.FC = () => {
               <p className="text-teal-100/60 leading-relaxed mb-8 max-w-sm font-light">
                 Empowering businesses globally with precision technology for over two decades. Your success and production efficiency is our ultimate mission.
               </p>
-              {/* <div className="flex space-x-5">
-              <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-teal-100 hover:bg-teal-500 hover:text-white transition-all duration-300 shadow-lg"><i className="fa-brands fa-facebook-f"></i></a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-teal-100 hover:bg-teal-500 hover:text-white transition-all duration-300 shadow-lg"><i className="fa-brands fa-instagram"></i></a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-teal-100 hover:bg-teal-500 hover:text-white transition-all duration-300 shadow-lg"><i className="fa-brands fa-youtube"></i></a>
-            </div> */}
+              <div className="flex space-x-5">
+                <a href="https://wa.me/919898702417" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-teal-100 hover:bg-green-500 hover:text-white transition-all duration-300 shadow-lg" target="_blank" rel="noopener noreferrer">
+                  <i className="fa-brands fa-whatsapp text-xl"></i>
+                </a>
+                <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-teal-100 hover:bg-teal-500 hover:text-white transition-all duration-300 shadow-lg">
+                  <i className="fa-brands fa-instagram text-xl"></i>
+                </a>
+              </div>
             </motion.div>
 
             <motion.div

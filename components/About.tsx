@@ -63,15 +63,15 @@ const About: React.FC = () => {
             </div>
 
             <h2 className="text-4xl sm:text-5xl font-extrabold text-gray-900 mb-8 leading-tight">
-              Pioneering <span className="text-transparent bg-clip-text bg-gradient-to-r from-mirai-teal to-teal-400">Excellence</span> in Machinery
+              Pioneering <span className="text-transparent bg-clip-text bg-gradient-to-r from-mirai-teal to-teal-400">Excellence</span> in Industrial Embroidery Machinery
             </h2>
 
             <p className="text-lg text-gray-600 mb-6 leading-relaxed font-light">
-              At Mirai Embroidery, we pride ourselves on being a premier machinery supplier in the industry. For over two decades, we have been the trusted partner providing unwavering quality and innovation to businesses worldwide.
+              At Mirai Embroidery, we pride ourselves on being a premier industrial embroidery machinery supplier. For over two decades, we have been the trusted partner providing unwavering quality and innovation to garment businesses worldwide.
             </p>
 
             <p className="text-lg text-gray-600 mb-10 leading-relaxed font-light">
-              We specialize in importing and distributing state-of-our-art industrial embroidery machines that cater to garment manufacturers, boutique owners, and mass production facilities. Our dedication doesn't stop at sales; our exceptional after-sales service and technical support are what truly set us apart.
+              We specialize in importing and distributing state-of-the-art computerized embroidery machines that cater to garment manufacturers, boutique owners, and mass production facilities. Our dedication doesn't stop at sales; our exceptional after-sales service and technical support are what truly set us apart in the embroidery industry.
             </p>
 
             <div className="grid sm:grid-cols-2 gap-6 bg-gray-50 p-6 rounded-2xl border border-gray-100">

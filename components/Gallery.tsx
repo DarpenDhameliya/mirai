@@ -8,23 +8,23 @@ const Gallery: React.FC = () => {
   const images = [
     {
       url: aboutImage.src,
-      title: "Multi-Head High Speed",
-      desc: "Perfect for large scale garment production."
+      title: "Multi-Head High Speed Machine",
+      desc: "Top-tier industrial embroidery production for high volume."
     },
     {
       url: aboutImage2.src,
-      title: "Single Head Compact",
-      desc: "Ideal for boutiques and sampling."
+      title: "Single Head Compact Machine",
+      desc: "Professional embroidery for boutiques and custom sampling."
     },
     {
       url: threadingImage.src,
-      title: "Precision Threading",
-      desc: "Advanced auto-threading technology."
+      title: "Advanced Precision Threading",
+      desc: "Cutting-edge auto-threading for minimal downtime."
     },
     {
       url: controlImage.src,
-      title: "Control Systems",
-      desc: "Intuitive touch-screen interfaces."
+      title: "Smart Control Systems",
+      desc: "Intuitive touch interface for computerized embroidery."
     }
   ];
 
