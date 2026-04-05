@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Gallery from '@/components/Gallery';
+import FAQ from '@/components/FAQ';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 import MapSection from '@/components/MapSection';
@@ -24,7 +25,11 @@ export default function Home() {
           <Gallery />
         </section>
 
-        <section id="contact" className="py-20 bg-white">
+        <section id="faq" className="py-20 bg-white border-t border-gray-100">
+          <FAQ />
+        </section>
+
+        <section id="contact" className="py-20 bg-gray-50">
           <Contact />
         </section>
 

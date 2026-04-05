@@ -80,8 +80,8 @@ const About: React.FC = () => {
                   <CheckCircle2 className="w-6 h-6 text-teal-500" />
                 </div>
                 <div>
-                  <h4 className="font-bold text-gray-900 text-lg">Expert Support</h4>
-                  <p className="text-sm text-gray-500 mt-1">24/7 priority technical assistance for all clients.</p>
+                  <h4 className="font-bold text-gray-900 text-lg">Embroidery Machine Support</h4>
+                  <p className="text-sm text-gray-500 mt-1">24/7 priority technical assistance for all our industrial machine clients.</p>
                 </div>
               </div>
               <div className="flex gap-4">

@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
 
           {/* Subheading */}
           <p className="mt-4 text-lg sm:text-xl text-gray-300 max-w-2xl font-light leading-relaxed mb-10 drop-shadow-md">
-            Get the latest technology and boost your efficiency. Premium industrial embroidery machines designed for uncompromising durability and unmatched precision.
+            Get the latest technology and boost your efficiency. Choose the <span className="font-bold text-teal-300">best industrial embroidery machine</span> for your business. Our premium machines are designed for uncompromising durability and unmatched precision.
           </p>
 
           {/* CTA Buttons */}
